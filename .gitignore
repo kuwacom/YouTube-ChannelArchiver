@@ -1,5 +1,5 @@
 # video
-.mp4
+*.mp4
 
 # meta
-.json
+*.json
