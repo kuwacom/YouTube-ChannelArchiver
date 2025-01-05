@@ -1,0 +1,2 @@
+# YouTube-ChannelArchiver
+指定したYouTubeチャンネルの動画や概要欄等のすべてのデータを保存してアーカイブするスクリプト
